@@ -2,9 +2,9 @@
 
 # How to run AjaiGPT
 ## 1. Clone the repository:
-    ```bash
-    git clone https://github.com/ajairosen/AjaiGPT.git
-    ```
+```bash
+git clone https://github.com/ajairosen/AjaiGPT.git
+```
 
 ## 2. Navigate to project repositoty:
     ```bash
